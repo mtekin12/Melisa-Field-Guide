@@ -1,0 +1,282 @@
+.fullscreenimg {
+    position: relative;
+
+}
+
+
+#section-1a {
+    /*
+    width:25%;
+    height:25%; 
+*/
+
+}
+
+
+#section-1b {
+    width: 25%;
+    height: 25%;
+
+}
+
+#section-1c {
+    width: 25%;
+    height: 25%;
+}
+
+
+
+#section-2a {
+    width: 25%;
+    height: 25%;
+}
+
+#section-2b {
+    width: 25%;
+    height: 25%;
+
+}
+
+.window-size {
+    width: 100vw;
+}
+
+
+.pop-up-text {
+    width: 25%;
+}
+
+/*style for first hover element*/
+
+.hide-1 {
+    display: none;
+}
+
+.hover-1:hover + .hide-1 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 455px;
+    top: 420px;
+}
+
+
+#label_1 {
+    width: 23%;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+}
+
+#pop-up-1 {
+    width: 25%;
+    position: absolute;
+    left: 525px;
+    top: 475px;
+}
+
+/*style for second hover element*/
+
+.hide-2 {
+    display: none;
+}
+
+.hover-2:hover + .hide-2 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+
+#label_2 {
+    width: 28%;
+    position: absolute;
+    left: 250px;
+    top: 375px;
+}
+
+#pop-up-2 {
+    width: 25%;
+    position: absolute;
+    left: 10px;
+    top: 400px;
+
+}
+
+
+/*style for third hover element*/
+
+.hide-3 {
+    display: none;
+}
+
+.hover-3:hover + .hide-3 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_3 {
+    width: 22%;
+    position: absolute;
+    left: 100px;
+    top: 1600px;
+}
+
+#pop-up-3 {
+    width: 22%;
+    position: absolute;
+    left: 400px;
+    top: 1600px;
+
+}
+
+
+/*style for fourth hover element*/
+
+.hide-4 {
+    display: none;
+}
+
+.hover-4:hover + .hide-4 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_4 {
+    width: 20%;
+    position: absolute;
+    left: 425px;
+    top: 1350px;
+}
+
+#pop-up-4 {
+    width: 32%;
+    position: absolute;
+    left: 230px;
+    top: 1450px;
+
+}
+
+/*style for fifth hover element*/
+
+.hide-5 {
+    display: none;
+}
+
+.hover-5:hover + .hide-5 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_5 {
+    width: 18%;
+    position: absolute;
+    left: 125px;
+    top: 2300px;
+}
+
+#pop-up-5 {
+    width: 12%;
+    position: absolute;
+    left: 95px;
+    top: 2450px;
+
+}
+
+/*style for sixth hover element*/
+
+.hide-6 {
+    display: none;
+}
+
+.hover-6:hover + .hide-6 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_6 {
+    position: absolute;
+    width: 8%;
+    left: 600px;
+    top: 1850px;
+}
+
+#pop-up-6 {
+    width: 20%;
+    position: absolute;
+    left: 325px;
+    top: 1840px;
+
+}
+
+/*style for seventh hover element*/
+
+.hide-7 {
+    display: none;
+}
+
+.hover-7:hover + .hide-7 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_7 {
+    position: absolute;
+    width: 25%;
+    left: 700px;
+    top: 3200px;
+}
+
+#pop-up-7 {
+    width: 40%;
+    position: absolute;
+    left: 700px;
+    top: 3300px;
+
+}
+
+/*style for eighth hover element*/
+
+.hide-8 {
+    display: none;
+}
+
+.hover-8:hover + .hide-8 {
+    display: block;
+    color: red;
+    position: absolute;
+    left: 500px;
+    top: 1500px;
+}
+
+#label_8 {
+    position: absolute;
+    width: 20%;
+    left: 500px;
+    top: 2900px;
+}
+
+#pop-up-8 {
+    width: 30%;
+    position: absolute;
+    left: 110px;
+    top: 2950px;
+
+}
+
